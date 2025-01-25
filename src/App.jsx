@@ -15,8 +15,8 @@ function App() {
   }
 
   const [userInput,setuserInput]= useState({
-    initialInvestment:12000,
-    annualInvestment:1200,
+    initialInvestment:10000,
+    annualInvestment:1000,
     expectedReturn:6,
     duration:6
 
